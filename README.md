@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Olá, eu sou a Thayss Brock
 
-<!--
-**thayssabrock/thayssabrock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayssabrock&hide_progress=true)-->
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="140">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📊 Analista de Dados, curiosa por tudo que envolva dados e automação.
+- 🛠️ Stack principal: **Python**, **SQL**, **Pandas**, **Excel**, **SPSS**.
+- ☁️ Estudando: **Engenharia de Dados** (ETL, pipelines, cloud).
+- 💻 Explorando: **Desenvolvimento Web** (HTML, CSS, JavaScript).
+- 🎯 Foco atual: criar projetos práticos e organizar meu portfólio de dados.
+- 😄 Pronomes: ela/dela
+
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" width="250"/>
+
+
