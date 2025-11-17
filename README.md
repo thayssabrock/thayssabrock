@@ -3,7 +3,6 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayssabrock&hide_progress=true)
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="140">-->
-<br>
 
 - 📊 Analista de Dados, curiosa por tudo que envolva dados e automação.
 - 🛠️ Stack principal: **Python**, **SQL**, **Pandas**, **Excel**, **SPSS**.
