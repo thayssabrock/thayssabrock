@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou a Thayss Brock
+## 👋 Olá, eu sou a Thayssa Brock
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thayssabrock&hide_progress=true)
 
