@@ -13,6 +13,6 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,git,github" width="250"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,github" width="250"/>
 
 
